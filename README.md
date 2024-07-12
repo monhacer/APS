@@ -1,17 +1,26 @@
 # Netscan Abuse Problem Solver
 
-Blocking private IPs in the firewall:<br>
-
+🇬🇧 Blocking private IPs in the firewall:
+<br>
+<p dir='rtl' align='right'>
+  🇮🇷 مسدود سازی آیپی های پرایوت در فایروال
+</p>
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/monhacer/Netscan-Abuse-Fixer/main/NetscanAbuseFixer.sh)
 ```
 
-Opening the port of social networks:<br>
+🇬🇧 Opening the port of social networks:<br>
+<p dir='rtl' align='right'>
+  🇮🇷 بازکردن پورت شبکه های اجتماعی در فایروال 
+</p>
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/monhacer/SPO/main/OpenPorts.sh)
 ```
 
-Allow DNS:<br>
+🇬🇧 Allow DNS:<br>
+<p dir='rtl' align='right'>
+  🇮🇷 مجاز کردن دی ان اس در فایروال
+</p>
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/monhacer/APS/main/AllowDNS.sh)
 ```
