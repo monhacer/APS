@@ -5,6 +5,7 @@
 <p dir='rtl' align='right'>
   🇮🇷 مسدود سازی آیپی های پرایوت در فایروال
 </p>
+
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/monhacer/Netscan-Abuse-Fixer/main/NetscanAbuseFixer.sh)
 ```
@@ -13,6 +14,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/monhacer/Netscan-Abuse-Fixer/m
 <p dir='rtl' align='right'>
   🇮🇷 بازکردن پورت شبکه های اجتماعی در فایروال 
 </p>
+
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/monhacer/SPO/main/OpenPorts.sh)
 ```
@@ -21,6 +23,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/monhacer/SPO/main/OpenPorts.sh
 <p dir='rtl' align='right'>
   🇮🇷 مجاز کردن دی ان اس در فایروال
 </p>
+
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/monhacer/APS/main/AllowDNS.sh)
 ```
