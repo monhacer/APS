@@ -1,10 +1,21 @@
 # Abuse Problem Solver
 
-Install:<br>
+Blocking private IPs in the firewall:<br>
 
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/monhacer/Netscan-Abuse-Fixer/main/NetscanAbuseFixer.sh)
 ```
+
+Opening the port of social networks:<br>
+```
+bash <(curl -Ls https://raw.githubusercontent.com/monhacer/SPO/main/OpenPorts.sh)
+```
+
+Allow DNS:<br>
+```
+bash <(curl -Ls https://raw.githubusercontent.com/monhacer/APS/main/AllowDNS.sh)
+```
+
 
 🇬🇧 English:<br>
 Launching this shell will block private IPs in IPtable and UFW firewalls; And it will solve the problem of abuses in data centers like Hetzner.
