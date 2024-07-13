@@ -37,7 +37,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/monhacer/APS/main/AllowDNS.sh)
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/monhacer/APS/main/RTTFixer.sh)
 ```
-
+<br><br>
 🇬🇧 English:<br>
 Launching this shell will block private IPs in IPtable and UFW firewalls; And it will solve the problem of abuses in data centers like Hetzner.
 
