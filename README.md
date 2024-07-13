@@ -7,7 +7,7 @@
 </p>
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/monhacer/Netscan-Abuse-Fixer/main/NetscanAbuseFixer.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/monhacer/APS/main/NetscanAbuseFixer.sh)
 ```
 
 🇬🇧 Opening the port of social networks:<br>
