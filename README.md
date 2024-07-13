@@ -9,7 +9,7 @@
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/monhacer/APS/main/NetscanAbuseFixer.sh)
 ```
-
+<br><br>
 🇬🇧 Opening the port of social networks:<br>
 <p dir='rtl' align='right'>
   🇮🇷 بازکردن پورت شبکه های اجتماعی در فایروال 
@@ -18,7 +18,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/monhacer/APS/main/NetscanAbuse
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/monhacer/SPO/main/OpenPorts.sh)
 ```
-
+<br><br>
 🇬🇧 Allow DNS:<br>
 <p dir='rtl' align='right'>
   🇮🇷 مجاز کردن دی ان اس در فایروال
@@ -27,6 +27,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/monhacer/SPO/main/OpenPorts.sh
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/monhacer/APS/main/AllowDNS.sh)
 ```
+<br><br>
 🇬🇧 Solve Problem with RTT Tunnel:
 <br>
 <p dir='rtl' align='right'>
