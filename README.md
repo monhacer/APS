@@ -27,7 +27,15 @@ bash <(curl -Ls https://raw.githubusercontent.com/monhacer/SPO/main/OpenPorts.sh
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/monhacer/APS/main/AllowDNS.sh)
 ```
+🇬🇧 Solve Problem with RTT Tunnel:
+<br>
+<p dir='rtl' align='right'>
+  🇮🇷 حل مشکل فایروال با تانل RTT
+</p>
 
+```
+bash <(curl -Ls https://raw.githubusercontent.com/monhacer/APS/main/RTTFixer.sh)
+```
 
 🇬🇧 English:<br>
 Launching this shell will block private IPs in IPtable and UFW firewalls; And it will solve the problem of abuses in data centers like Hetzner.
