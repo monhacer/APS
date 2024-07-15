@@ -1,3 +1,4 @@
+#!/bin/bash
 ufw enable
 ufw allow 22/tcp
 ufw allow 443/tcp
