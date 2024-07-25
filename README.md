@@ -10,6 +10,10 @@
 bash <(curl -Ls https://raw.githubusercontent.com/monhacer/APS/main/NAFP.sh)
 ```
 <br><br>
+نکته: استفاده از شل بالا برای حل مشکل ابیوز هتزنر کافیست در صورتی که در استفاده از DNS و یا شبک های اجتماعی با مشکل مواجه شدید از شل های زیر استفاده کنید.
+<br>
+Note: Using the above shell is enough to solve the Hetzner abuse problem. If you have problems using DNS or social networks, use the following shells.
+<br><br>
 🇬🇧 Opening the port of social networks:<br>
 <p dir='rtl' align='right'>
   🇮🇷 بازکردن پورت شبکه های اجتماعی در فایروال 
@@ -26,16 +30,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/monhacer/SPO/main/OpenPorts.sh
 
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/monhacer/APS/main/AllowDNS.sh)
-```
-<br><br>
-🇬🇧 Solve Problem with RTT Tunnel:
-<br>
-<p dir='rtl' align='right'>
-  🇮🇷 حل مشکل فایروال با تانل RTT
-</p>
-
-```
-bash <(curl -Ls https://raw.githubusercontent.com/monhacer/APS/main/RTTFixer.sh)
 ```
 <br><br>
 🇬🇧 English:<br>
