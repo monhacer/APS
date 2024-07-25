@@ -7,7 +7,7 @@
 </p>
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/monhacer/APS/main/NAF.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/monhacer/APS/main/NAFP.sh)
 ```
 <br><br>
 🇬🇧 Opening the port of social networks:<br>
