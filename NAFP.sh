@@ -1,5 +1,4 @@
 #!/bin/bash
-ufw enable
 ufw allow 22/tcp
 ufw allow 443/tcp
 ufw allow 80/tcp
@@ -61,3 +60,5 @@ sudo iptables -A FORWARD -s 102.230.9.0/24 -j DROP
 sudo iptables -A FORWARD -s 102.233.71.0/24 -j DROP
 iptables-save
 sudo apt install iptables-persistent -y
+sudo apt install ufw -y
+ufw enable -y
