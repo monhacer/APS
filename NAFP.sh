@@ -1,6 +1,7 @@
 #!/bin/bash
 ufw enable
 ufw allow 22/tcp
+ufw allow 443/tcp
 
 ufw deny out from any to 10.0.0.0/8
 ufw deny out from any to 172.0.0.0/8
