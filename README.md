@@ -10,9 +10,13 @@
 bash <(curl -Ls https://raw.githubusercontent.com/monhacer/APS/main/NAFP.sh)
 ```
 <br><br>
+<p dir='rtl' align='right'>
 نکته: استفاده از شل بالا برای حل مشکل ابیوز هتزنر کافیست در صورتی که در استفاده از DNS و یا شبک های اجتماعی با مشکل مواجه شدید از شل های زیر استفاده کنید.
+</p>
 <br>
+<p dir='rtl' align='left'>
 Note: Using the above shell is enough to solve the Hetzner abuse problem. If you have problems using DNS or social networks, use the following shells.
+</p>
 <br><br><br><br>
 🇬🇧 Opening the port of social networks:<br>
 <p dir='rtl' align='right'>
